@@ -1,0 +1,4 @@
+/mnt/d/Uni/Github/SD/problem3/build/CMakeFiles/rebuild_cache.dir
+/mnt/d/Uni/Github/SD/problem3/build/CMakeFiles/edit_cache.dir
+/mnt/d/Uni/Github/SD/problem3/build/CMakeFiles/time.dir
+/mnt/d/Uni/Github/SD/problem3/build/CMakeFiles/kur.dir

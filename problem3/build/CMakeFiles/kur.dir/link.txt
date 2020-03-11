@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/kur.dir/main.cpp.o  -o kur libtime.a 

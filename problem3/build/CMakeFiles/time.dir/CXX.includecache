@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/d/Uni/Github/SD/problem3/source/VTime.cpp
+VTime.h
+/mnt/d/Uni/Github/SD/problem3/source/VTime.h
+iostream
+-
+time.h
+-
+
+/mnt/d/Uni/Github/SD/problem3/source/VTime.h
+string
+-
+
