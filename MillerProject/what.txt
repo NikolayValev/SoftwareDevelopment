@@ -1,0 +1,17 @@
+Classes:
+Assembler class - container for the assembler
+  Pass 1: Establish the location of the labels
+  Displayed the symbol table
+  Pass 2: translate into machine language
+  Emulator: Run a machine language program
+Symbol Table Class
+  add a symbol - symbol and address
+  display table
+  look up a symbol - return address
+Instruction Class
+  parse an instruction - break it up into label, register, up-code, operand
+  determine the type of instruction
+  error detection
+File Class
+Error Class
+Emulator Class
